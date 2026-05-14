@@ -1,6 +1,6 @@
 # 🗃️ Atelier — Bases de données vectorielles
 
-**BTS SIO option SLAM — 2ème année**
+**BTS SIO option SLAM **
 
 ---
 
